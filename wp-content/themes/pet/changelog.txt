@@ -1,0 +1,38 @@
+Version 1.9.3
+	- Fixed shortcode Popup
+
+Version 1.9.2
+	- Fixed Search on header regular
+
+Version 1.9.1
+	- Fixed display products
+
+Version 1.9
+	- Demo data installation improved
+	- Added support for Google API Key
+
+Version 1.8
+    Notice:
+    - Small fix the Accordion
+    - Decor semicircle in the header update for Retina
+
+Version 1.7
+    Updated Visual Composer and other plugins to their latest versions.
+
+Version 1.6
+    Fixed the addition of a custom font.
+
+Version 1.5
+    Updated Visual Composer to version 4.7.4.
+
+Version 1.4
+    Small changes in the design and content.
+
+Version 1.3
+    Fixed the search field on the page 404
+
+Version 1.2
+    Fixed animation of the main menu
+
+Version 1.0
+	Release

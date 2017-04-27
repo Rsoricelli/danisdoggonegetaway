@@ -1,0 +1,2379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-10-25 18:16+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Wachipi <info@wachipi.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Even if you want to set a fixed hour (i.e. 6: 00), please remember to select "
+"minutes too (00) or you'll get the error \"Duplicated slots\"\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Basepath: /var/www/wachipi/WPML/wp-content/plugins/wp-booking-"
+"calendar\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-booking-calendar.php:202
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+
+#: wp-booking-calendar.php:207
+msgid "An unknown error occurred"
+msgstr "An unknown error occurred"
+
+#: wp-booking-calendar.php:358
+msgid "Booking Calendar"
+msgstr "Booking Calendar"
+
+#: wp-booking-calendar.php:360
+msgid "Settings"
+msgstr ""
+
+#: wp-booking-calendar.php:361
+msgid "Bg and Colors"
+msgstr ""
+
+#: wp-booking-calendar.php:362
+msgid "Manage Categories"
+msgstr ""
+
+#: wp-booking-calendar.php:363
+#, fuzzy
+msgid "Manage Calendars"
+msgstr "Booking Calendar"
+
+#: wp-booking-calendar.php:364 admin/reservation.php:31
+#: admin/reservations.php:14 admin/reservations.php:33
+msgid "Reservations"
+msgstr ""
+
+#: wp-booking-calendar.php:365
+msgid "Manage Mail"
+msgstr ""
+
+#: wp-booking-calendar.php:366
+msgid "Form management"
+msgstr ""
+
+#: wp-booking-calendar.php:367
+msgid "Text management"
+msgstr ""
+
+#: wp-booking-calendar.php:368
+msgid "Your reservations"
+msgstr ""
+
+#: wp-booking-calendar.php:369
+msgid "Contact Administrator"
+msgstr ""
+
+#: wp-booking-calendar.php:454 wp-booking-calendar.php:492
+#: wp-booking-calendar.php:541 wp-booking-calendar.php:579
+#: wp-booking-calendar.php:619 wp-booking-calendar.php:658
+#: wp-booking-calendar.php:695 admin/welcome.php:18
+msgid "Hey Admin,"
+msgstr ""
+
+#: wp-booking-calendar.php:455 wp-booking-calendar.php:493
+#: wp-booking-calendar.php:542 wp-booking-calendar.php:580
+#: wp-booking-calendar.php:620 wp-booking-calendar.php:659
+#: wp-booking-calendar.php:696 admin/welcome.php:19
+msgid ""
+"it seems like you did not adjust the settings and  created a calendar yet."
+msgstr ""
+"it seems like you did not adjust the settings and  created a calendar yet."
+
+#: wp-booking-calendar.php:456 wp-booking-calendar.php:494
+#: wp-booking-calendar.php:543 wp-booking-calendar.php:581
+#: wp-booking-calendar.php:621 wp-booking-calendar.php:660
+#: wp-booking-calendar.php:697 admin/welcome.php:20
+msgid "Remember, "
+msgstr "Remember, "
+
+#: wp-booking-calendar.php:456 wp-booking-calendar.php:494
+#: wp-booking-calendar.php:543 wp-booking-calendar.php:581
+#: wp-booking-calendar.php:621 wp-booking-calendar.php:660
+#: wp-booking-calendar.php:697 admin/welcome.php:20
+msgid "if you skip these two steps, the Booking Calendar cannot work."
+msgstr ""
+
+#: wp-booking-calendar.php:457 wp-booking-calendar.php:495
+#: wp-booking-calendar.php:544 wp-booking-calendar.php:582
+#: wp-booking-calendar.php:622 wp-booking-calendar.php:661
+#: wp-booking-calendar.php:698 admin/welcome.php:21
+msgid "Let's go to start now!"
+msgstr ""
+
+#: public/cancel.php:8 public/confirm.php:81 public/paypal_confirm.php:29
+msgid "Well done!"
+msgstr ""
+
+#: public/cancel.php:9
+msgid "Your reservation is successfully cancelled."
+msgstr ""
+
+#: public/cancel.php:14 public/cancel.php:18 public/cancel.php:104
+#: public/cancel.php:108 public/paypal_cancel.php:32 public/confirm.php:87
+#: public/confirm.php:91 public/confirm.php:105 public/confirm.php:109
+#: public/paypal_confirm.php:32
+msgid "Ok, thanks."
+msgstr ""
+
+#: public/cancel.php:34
+#, fuzzy
+msgid "A user has cancelled his reservation"
+msgstr "A user has cancelled his reservation. Check it in the admin panel: "
+
+#: public/cancel.php:35
+msgid "A user has cancelled his reservation. Check it in the admin panel: "
+msgstr "A user has cancelled his reservation. Check it in the admin panel: "
+
+#: public/cancel.php:35
+msgid "click here"
+msgstr ""
+
+#: public/cancel.php:42 public/index.php:585 public/index.php:592
+#: public/paypal_ipn_notice.php:60 public/ajax/doReservation.php:85
+#: admin/form_management.php:67 admin/form_management.php:90
+#: admin/form_management.php:115 admin/user_reservation_detail.php:56
+#: admin/reservation_detail.php:56 admin/ajax/csvUsersExport.php:10
+#: admin/ajax/categories.php:12 admin/ajax/csvExport.php:10
+msgid "Name"
+msgstr ""
+
+#: public/cancel.php:45 public/index.php:613 public/index.php:620
+#: public/paypal_ipn_notice.php:63 public/ajax/doReservation.php:88
+#: admin/form_management.php:68 admin/form_management.php:91
+#: admin/form_management.php:128 admin/user_reservation_detail.php:47
+#: admin/reservation_detail.php:47 admin/ajax/csvUsersExport.php:7
+#: admin/ajax/csvExport.php:7
+msgid "Surname"
+msgstr ""
+
+#: public/cancel.php:48 public/index.php:643 public/index.php:650
+#: public/paypal_ipn_notice.php:66 public/ajax/doReservation.php:91
+#: admin/form_management.php:69 admin/form_management.php:92
+#: admin/form_management.php:141 admin/user_reservation_detail.php:65
+#: admin/reservation.php:420 admin/users_reservation.php:362
+#: admin/reservation_detail.php:65 admin/ajax/csvUsersExport.php:13
+#: admin/ajax/reservation.php:26 admin/ajax/users_reservation.php:26
+#: admin/ajax/csvExport.php:13
+msgid "Email"
+msgstr ""
+
+#: public/cancel.php:51 public/index.php:673 public/index.php:680
+#: public/paypal_ipn_notice.php:69 public/ajax/doReservation.php:94
+#: admin/form_management.php:70 admin/form_management.php:93
+#: admin/form_management.php:154 admin/user_reservation_detail.php:74
+#: admin/reservation_detail.php:74 admin/ajax/csvUsersExport.php:16
+#: admin/ajax/csvExport.php:16
+msgid "Phone"
+msgstr ""
+
+#: public/cancel.php:55 public/index.php:703 public/index.php:710
+#: public/paypal_ipn_notice.php:73 public/ajax/doReservation.php:98
+#: admin/form_management.php:71 admin/form_management.php:94
+#: admin/form_management.php:168 admin/user_reservation_detail.php:83
+#: admin/reservation.php:297 admin/user_contact.php:31
+#: admin/reservation_detail.php:83 admin/ajax/csvUsersExport.php:19
+#: admin/ajax/csvExport.php:19
+msgid "Message"
+msgstr ""
+
+#: public/cancel.php:58 public/index.php:733 public/index.php:740
+#: public/paypal_ipn_notice.php:76 public/ajax/doReservation.php:101
+#: admin/form_management.php:72 admin/form_management.php:95
+#: admin/form_management.php:181 admin/user_reservation_detail.php:92
+#: admin/reservation_detail.php:92 admin/ajax/csvUsersExport.php:22
+#: admin/ajax/csvExport.php:22
+msgid "Additional field 1"
+msgstr ""
+
+#: public/cancel.php:61 public/index.php:763 public/index.php:770
+#: public/paypal_ipn_notice.php:79 public/ajax/doReservation.php:104
+#: admin/form_management.php:73 admin/form_management.php:96
+#: admin/form_management.php:194 admin/user_reservation_detail.php:101
+#: admin/reservation_detail.php:101 admin/ajax/csvUsersExport.php:25
+#: admin/ajax/csvExport.php:25
+msgid "Additional field 2"
+msgstr ""
+
+#: public/cancel.php:64 public/index.php:793 public/index.php:800
+#: public/paypal_ipn_notice.php:82 public/ajax/doReservation.php:107
+#: admin/form_management.php:74 admin/form_management.php:97
+#: admin/form_management.php:207 admin/user_reservation_detail.php:110
+#: admin/reservation_detail.php:110 admin/ajax/csvUsersExport.php:28
+#: admin/ajax/csvExport.php:28
+msgid "Additional field 3"
+msgstr ""
+
+#: public/cancel.php:67 public/index.php:823 public/index.php:830
+#: public/paypal_ipn_notice.php:85 public/ajax/doReservation.php:110
+#: admin/form_management.php:75 admin/form_management.php:98
+#: admin/form_management.php:220 admin/user_reservation_detail.php:119
+#: admin/reservation_detail.php:119 admin/ajax/csvUsersExport.php:31
+#: admin/ajax/csvExport.php:31
+msgid "Additional field 4"
+msgstr ""
+
+#: public/cancel.php:69 public/paypal_ipn_notice.php:98
+#: public/ajax/doReservation.php:153 admin/reservation.php:31
+#: admin/reservations.php:29
+#, fuzzy
+msgid "Calendar"
+msgstr "Booking Calendar"
+
+#: public/cancel.php:78 public/paypal_ipn_notice.php:107
+#: public/paypal_ipn_notice.php:175 public/confirm.php:43
+#: public/ajax/doReservation.php:162 public/ajax/doReservation.php:231
+#: admin/holidays_include.php:296 admin/slots_include.php:1183
+#: admin/user_reservation_detail.php:127 admin/new_slot_include.php:583
+#: admin/reservation.php:408 admin/reservation.php:516
+#: admin/users_reservation.php:350 admin/reservation_detail.php:127
+#: admin/ajax/confirmReservation.php:44 admin/ajax/csvUsersExport.php:5
+#: admin/ajax/slots.php:89 admin/ajax/delHolidayItem.php:22
+#: admin/ajax/reservation.php:14 admin/ajax/reservation.php:121
+#: admin/ajax/setHolidayOrderby.php:39 admin/ajax/users_reservation.php:14
+#: admin/ajax/csvExport.php:5
+msgid "Date"
+msgstr ""
+
+#: public/cancel.php:80 public/cancel.php:82 public/paypal_ipn_notice.php:109
+#: public/paypal_ipn_notice.php:111 public/paypal_ipn_notice.php:178
+#: public/paypal_ipn_notice.php:180 public/paypal_ipn_notice.php:187
+#: public/paypal_ipn_notice.php:190 public/paypal_ipn_notice.php:192
+#: public/confirm.php:46 public/confirm.php:48 public/confirm.php:55
+#: public/confirm.php:58 public/confirm.php:60
+#: public/ajax/doReservation.php:164 public/ajax/doReservation.php:166
+#: public/ajax/doReservation.php:234 public/ajax/doReservation.php:236
+#: public/ajax/doReservation.php:243 public/ajax/doReservation.php:246
+#: public/ajax/doReservation.php:248 admin/user_reservation_detail.php:143
+#: admin/new_slot_include.php:778 admin/reservation.php:411
+#: admin/reservation.php:516 admin/users_reservation.php:353
+#: admin/reservation_detail.php:144 admin/ajax/confirmReservation.php:47
+#: admin/ajax/confirmReservation.php:49 admin/ajax/confirmReservation.php:56
+#: admin/ajax/confirmReservation.php:59 admin/ajax/confirmReservation.php:61
+#: admin/ajax/csvUsersExport.php:5 admin/ajax/reservation.php:17
+#: admin/ajax/reservation.php:121 admin/ajax/users_reservation.php:17
+#: admin/ajax/csvExport.php:5
+msgid "Time"
+msgstr ""
+
+#: public/cancel.php:85 public/paypal_ipn_notice.php:114
+#: public/paypal_ipn_notice.php:196 public/ajax/doReservation.php:169
+#: public/ajax/doReservation.php:252 admin/slots_include.php:1193
+#: admin/user_reservation_detail.php:170 admin/reservation.php:414
+#: admin/reservation.php:516 admin/users_reservation.php:356
+#: admin/reservation_detail.php:171 admin/ajax/confirmReservation.php:65
+#: admin/ajax/csvUsersExport.php:34 admin/ajax/slots.php:99
+#: admin/ajax/reservation.php:20 admin/ajax/reservation.php:121
+#: admin/ajax/users_reservation.php:20 admin/ajax/csvExport.php:34
+msgid "Seats"
+msgstr ""
+
+#: public/cancel.php:89 public/paypal_ipn_notice.php:118
+#: public/paypal_ipn_notice.php:200 public/ajax/doReservation.php:173
+#: public/ajax/doReservation.php:256 admin/slots_include.php:1191
+#: admin/user_reservation_detail.php:180 admin/new_slot_include.php:914
+#: admin/reservation_detail.php:181 admin/ajax/confirmReservation.php:69
+#: admin/ajax/slots.php:97
+msgid "Price"
+msgstr ""
+
+#: public/cancel.php:99 public/confirm.php:100
+msgid "Expired link"
+msgstr ""
+
+#: public/paypal_cancel.php:29
+msgid "We're sorry"
+msgstr ""
+
+#: public/paypal_cancel.php:30
+msgid ""
+"There's been a problem with your payment and your reservation has been "
+"cancelled."
+msgstr ""
+"There's been a problem with your payment and your reservation has been "
+"cancelled."
+
+#: public/index.php:141
+msgid "January"
+msgstr ""
+
+#: public/index.php:142
+msgid "February"
+msgstr ""
+
+#: public/index.php:143
+msgid "March"
+msgstr ""
+
+#: public/index.php:144
+msgid "April"
+msgstr ""
+
+#: public/index.php:145
+msgid "May"
+msgstr ""
+
+#: public/index.php:146
+msgid "June"
+msgstr ""
+
+#: public/index.php:147
+msgid "July"
+msgstr ""
+
+#: public/index.php:148
+msgid "August"
+msgstr ""
+
+#: public/index.php:149
+#, fuzzy
+msgid "September"
+msgstr "Remember, "
+
+#: public/index.php:150
+msgid "October"
+msgstr ""
+
+#: public/index.php:151
+msgid "November"
+msgstr ""
+
+#: public/index.php:152
+#, fuzzy
+msgid "December"
+msgstr "Remember, "
+
+#: public/index.php:394
+msgid "Category:"
+msgstr ""
+
+#: public/index.php:432
+#, fuzzy
+msgid "Calendar:"
+msgstr "Booking Calendar"
+
+#: public/index.php:475
+msgid "Back to today"
+msgstr ""
+
+#: public/index.php:507 public/index.php:518
+msgid "Mon"
+msgstr ""
+
+#: public/index.php:507 public/index.php:518 public/ajax/getBookingForm.php:18
+msgid "Monday"
+msgstr ""
+
+#: public/index.php:508 public/index.php:519
+msgid "Tue"
+msgstr ""
+
+#: public/index.php:508 public/index.php:519 public/ajax/getBookingForm.php:19
+msgid "Tuesday"
+msgstr ""
+
+#: public/index.php:509 public/index.php:520
+msgid "Wed"
+msgstr ""
+
+#: public/index.php:509 public/index.php:520 public/ajax/getBookingForm.php:20
+msgid "Wednesday"
+msgstr ""
+
+#: public/index.php:510 public/index.php:521
+msgid "Thu"
+msgstr ""
+
+#: public/index.php:510 public/index.php:521 public/ajax/getBookingForm.php:21
+msgid "Thursday"
+msgstr ""
+
+#: public/index.php:511 public/index.php:522
+msgid "Fri"
+msgstr ""
+
+#: public/index.php:511 public/index.php:522 public/ajax/getBookingForm.php:22
+msgid "Friday"
+msgstr ""
+
+#: public/index.php:512 public/index.php:523
+msgid "Sat"
+msgstr ""
+
+#: public/index.php:512 public/index.php:523 public/ajax/getBookingForm.php:23
+msgid "Saturday"
+msgstr ""
+
+#: public/index.php:513 public/index.php:517
+msgid "Sun"
+msgstr ""
+
+#: public/index.php:513 public/index.php:517 public/ajax/getBookingForm.php:17
+msgid "Sunday"
+msgstr ""
+
+#: public/index.php:586 public/index.php:593
+msgid "Insert your name"
+msgstr ""
+
+#: public/index.php:614 public/index.php:621
+msgid "Insert your surname"
+msgstr ""
+
+#: public/index.php:644 public/index.php:651 public/index.php:1033
+msgid "Insert a valid email address"
+msgstr ""
+
+#: public/index.php:674 public/index.php:681
+msgid "Insert your phone"
+msgstr ""
+
+#: public/index.php:704 public/index.php:711
+msgid "Insert a message"
+msgstr ""
+
+#: public/index.php:734 public/index.php:741
+msgid "Insert additional field 1"
+msgstr ""
+
+#: public/index.php:764 public/index.php:771
+msgid "Insert additional field 2"
+msgstr ""
+
+#: public/index.php:794 public/index.php:801
+msgid "Insert additional field 3"
+msgstr ""
+
+#: public/index.php:824 public/index.php:831
+msgid "Insert additional field 4"
+msgstr ""
+
+#: public/index.php:853
+msgid "You have to accept terms and conditions"
+msgstr ""
+
+#: public/index.php:869 public/index.php:1045
+msgid "Invalid code"
+msgstr ""
+
+#: public/index.php:888 public/index.php:895
+msgid "BOOK NOW"
+msgstr ""
+
+#: public/index.php:903
+msgid "clear"
+msgstr ""
+
+#: public/index.php:940 public/index.php:1012
+msgid "Login"
+msgstr ""
+
+#: public/index.php:944
+msgid "Register"
+msgstr ""
+
+#: public/index.php:988
+msgid "Invalid username or password"
+msgstr ""
+
+#: public/index.php:996
+msgid "Insert a valid username and password"
+msgstr ""
+
+#: public/index.php:1002 public/index.php:1028
+msgid "Username"
+msgstr ""
+
+#: public/index.php:1006
+msgid "Password"
+msgstr ""
+
+#: public/index.php:1024
+msgid "All fields are mandatory"
+msgstr ""
+
+#: public/index.php:1029
+msgid "Insert a username"
+msgstr ""
+
+#: public/index.php:1032
+msgid "Your email"
+msgstr ""
+
+#: public/index.php:1036
+msgid "Your password"
+msgstr ""
+
+#: public/index.php:1037
+msgid "Insert a password"
+msgstr ""
+
+#: public/index.php:1040
+msgid "Confirm password"
+msgstr ""
+
+#: public/index.php:1041
+msgid "Confirm password must match password"
+msgstr ""
+
+#: public/index.php:1052
+msgid "Sign up"
+msgstr ""
+
+#: public/index.php:1120
+msgid ""
+"Thank you for booking online. You'll receive an email confirmation at your "
+"email address"
+msgstr ""
+"Thank you for booking online. You'll receive an email confirmation at your "
+"email address"
+
+#: public/index.php:1122
+msgid ""
+"Thank you for booking online. Check your email box to confirm the "
+"reservation."
+msgstr ""
+"Thank you for booking online. Check your email box to confirm the "
+"reservation."
+
+#: public/index.php:1124
+msgid ""
+"Thank you for booking online. Your reservation will be confirmed by e-mail."
+msgstr ""
+"Thank you for booking online. Your reservation will be confirmed by e-mail."
+
+#: public/index.php:1127
+msgid "OK"
+msgstr ""
+
+#: public/paypal_ipn_notice.php:56 public/ajax/doReservation.php:81
+msgid "New reservation"
+msgstr ""
+
+#: public/paypal_ipn_notice.php:57 public/ajax/doReservation.php:82
+msgid "Reservation data below."
+msgstr ""
+
+#: public/paypal_ipn_notice.php:87 public/ajax/doReservation.php:112
+msgid "Slots reserved"
+msgstr ""
+
+#: public/paypal_ipn_notice.php:126 public/ajax/doReservation.php:180
+msgid "All reservations must be confirmed in "
+msgstr "All reservations must be confirmed in "
+
+#: public/paypal_ipn_notice.php:126 public/ajax/doReservation.php:180
+msgid "admin panel"
+msgstr ""
+
+#: public/paypal_ipn_notice.php:166 public/confirm.php:34
+#: public/ajax/doReservation.php:222 admin/ajax/confirmReservation.php:35
+msgid "Venue"
+msgstr ""
+
+#: public/paypal_ipn_notice.php:211 public/ajax/doReservation.php:269
+msgid "Click here to confirm your reservation"
+msgstr ""
+
+#: public/paypal_ipn_notice.php:216 public/confirm.php:69
+#: public/ajax/doReservation.php:274 admin/ajax/confirmReservation.php:76
+msgid "Click here to cancel your reservation"
+msgstr ""
+
+#: public/confirm.php:82 public/paypal_confirm.php:30
+#, fuzzy
+msgid "Your reservation is successfully confirmed."
+msgstr "All reservations must be confirmed in "
+
+#: public/ajax/registerUser.php:56
+msgid "You've been successfully registered"
+msgstr ""
+
+#: public/ajax/registerUser.php:72
+msgid "Existing user, please login"
+msgstr ""
+
+#: public/ajax/doReservation.php:324
+msgid ""
+"An error occurred. This time slot may be already reserved. Please try again"
+msgstr ""
+"An error occurred. This time slot may be already reserved. Please try again"
+
+#: public/ajax/getBookingForm.php:118 public/ajax/getBookingForm.php:122
+msgid "Prev day"
+msgstr ""
+
+#: public/ajax/getBookingForm.php:130 public/ajax/getBookingForm.php:134
+msgid "Next day"
+msgstr ""
+
+#: public/ajax/getBookingForm.php:140
+msgid "CLOSE"
+msgstr ""
+
+#: public/ajax/getBookingForm.php:211
+msgid "Select at least one time slot"
+msgstr ""
+
+#: public/ajax/getBookingForm.php:243
+msgid "Select seats"
+msgstr ""
+
+#: public/ajax/getBookingForm.php:269
+msgid "Free"
+msgstr ""
+
+#: public/ajax/getBookingForm.php:371
+msgid "Insert valid verification code"
+msgstr ""
+
+#: public/ajax/getMonthCalendar.php:113 public/ajax/getMonthCalendar.php:138
+msgid "SOLDOUT"
+msgstr ""
+
+#: admin/calendar_manage.php:55
+msgid "slots deleted"
+msgstr ""
+
+#: admin/calendar_manage.php:68
+msgid "slots modified"
+msgstr ""
+
+#: admin/calendar_manage.php:82
+msgid "slots added"
+msgstr ""
+
+#: admin/calendar_manage.php:86
+msgid "Days selected are holidays. Cannot make these changes"
+msgstr ""
+
+#: admin/calendar_manage.php:90 admin/ajax/checkEditSlots.php:33
+msgid "Duplicate slots. Cannot make these changes"
+msgstr ""
+
+#: admin/calendar_manage.php:157 admin/reservation.php:31
+msgid "You are in"
+msgstr ""
+
+#: admin/calendar_manage.php:157
+#, fuzzy
+msgid "Calendars"
+msgstr "Booking Calendar"
+
+#: admin/calendar_manage.php:157 admin/ajax/wp_booking_calendars.php:115
+msgid "Manage"
+msgstr ""
+
+#: admin/calendar_manage.php:164 admin/reservations.php:36
+#: admin/ajax/categories.php:16 admin/ajax/wp_booking_calendars.php:18
+msgid "Published"
+msgstr ""
+
+#: admin/calendar_manage.php:167
+msgid "Unpublished"
+msgstr ""
+
+#: admin/calendar_manage.php:172
+msgid "The Actual Status of this calendar is"
+msgstr ""
+
+#: admin/calendar_manage.php:178
+msgid "MANAGE TIME SLOTS"
+msgstr ""
+
+#: admin/calendar_manage.php:179
+msgid "CLOSING DAYS"
+msgstr ""
+
+#: admin/holidays_include.php:82 admin/holidays_include.php:278
+#: admin/slots_include.php:1164 admin/categories.php:178
+#: admin/categories.php:179 admin/categories.php:180 admin/reservation.php:379
+#: admin/wp_booking_calendars.php:170 admin/wp_booking_calendars.php:171
+#: admin/wp_booking_calendars.php:172 admin/wp_booking_calendars.php:173
+msgid "No items selected"
+msgstr ""
+
+#: admin/holidays_include.php:134
+msgid ""
+"There are reservations for one or more dates, are you sure you want to set "
+"these days as holidays?"
+msgstr ""
+"There are reservations for one or more dates, are you sure you want to set "
+"these days as holidays?"
+
+#: admin/holidays_include.php:161 admin/slots_include.php:186
+#: admin/reservation.php:111 admin/users_reservation.php:97
+#: admin/ajax/slots.php:20
+msgid "Select a date"
+msgstr ""
+
+#: admin/holidays_include.php:166
+#, fuzzy
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+"Are you sure you want to delete this item? All holidays, slots and "
+"reservations will be deleted"
+
+#: admin/holidays_include.php:193 admin/slots_include.php:213
+#: admin/reservation.php:212 admin/users_reservation.php:222
+msgid "Day"
+msgstr ""
+
+#: admin/holidays_include.php:197 admin/holidays_include.php:241
+#: admin/slots_include.php:218 admin/slots_include.php:697
+#: admin/slots_include.php:920 admin/slots_include.php:1128
+#: admin/new_slot_include.php:81 admin/new_slot_include.php:185
+#: admin/new_slot_include.php:586 admin/new_slot_include.php:651
+#: admin/new_slot_include.php:784 admin/reservation.php:216
+#: admin/reservation.php:323 admin/users_reservation.php:226
+#: admin/users_reservation.php:288
+msgid "From"
+msgstr ""
+
+#: admin/holidays_include.php:221
+msgid "Create Closing Days"
+msgstr ""
+
+#: admin/holidays_include.php:225
+msgid ""
+"These days will not be available for booking. If you created time slots in "
+"these days, they will be deleted."
+msgstr ""
+"These days will not be available for booking. If you created time slots in "
+"these days, they will be deleted."
+
+#: admin/holidays_include.php:229
+msgid "How many closing days do you want to set?"
+msgstr ""
+
+#: admin/holidays_include.php:232 admin/slots_include.php:865
+#: admin/configuration.php:586 admin/configuration.php:624
+#: admin/reservation.php:312 admin/users_reservation.php:277
+msgid "choose"
+msgstr ""
+
+#: admin/holidays_include.php:233
+msgid "A single day"
+msgstr ""
+
+#: admin/holidays_include.php:234 admin/slots_include.php:687
+#: admin/reservation.php:314 admin/users_reservation.php:279
+msgid "Period of time"
+msgstr ""
+
+#: admin/holidays_include.php:248 admin/slots_include.php:703
+#: admin/slots_include.php:926 admin/slots_include.php:1134
+#: admin/new_slot_include.php:128 admin/new_slot_include.php:233
+#: admin/new_slot_include.php:592 admin/new_slot_include.php:697
+#: admin/new_slot_include.php:832 admin/reservation.php:329
+#: admin/users_reservation.php:294
+msgid "To"
+msgstr ""
+
+#: admin/holidays_include.php:258
+msgid "SET"
+msgstr ""
+
+#: admin/holidays_include.php:278 admin/slots_include.php:1164
+#: admin/reservation.php:379
+msgid "Are you sure to delete the selected items?"
+msgstr ""
+
+#: admin/holidays_include.php:278 admin/holidays_include.php:338
+#: admin/slots_include.php:1143 admin/slots_include.php:1164
+#: admin/categories.php:180 admin/new_slot_include.php:594
+#: admin/reservation.php:379 admin/reservation.php:528
+#: admin/wp_booking_calendars.php:172 admin/ajax/addHolidayDate.php:40
+#: admin/ajax/addHolidayDate.php:84 admin/ajax/slots.php:369
+#: admin/ajax/categories.php:99 admin/ajax/delHolidayItem.php:64
+#: admin/ajax/reservation.php:133 admin/ajax/wp_booking_calendars.php:120
+#: admin/ajax/setHolidayOrderby.php:89
+msgid "Delete"
+msgstr ""
+
+#: admin/slots_include.php:116
+msgid "Create Time Slots"
+msgstr ""
+
+#: admin/slots_include.php:206 admin/reservation.php:131
+#: admin/users_reservation.php:116 admin/ajax/slots.php:40
+msgid "Select date range"
+msgstr ""
+
+#: admin/slots_include.php:256
+msgid "Are you sure you want to delete this slot?"
+msgstr ""
+
+#: admin/slots_include.php:270 admin/categories.php:102
+msgid "Save"
+msgstr ""
+
+#: admin/slots_include.php:447
+msgid "There's another slot for the same date and time. Change values"
+msgstr ""
+
+#: admin/slots_include.php:512 admin/slots_include.php:1079 admin/mails.php:65
+#: admin/ajax/slots.php:364 admin/ajax/wp_booking_calendars.php:109
+msgid "Modify"
+msgstr ""
+
+#: admin/slots_include.php:520
+msgid "Slot times values are not correct"
+msgstr ""
+
+#: admin/slots_include.php:653 admin/new_slot_include.php:536
+msgid "Select a date from"
+msgstr ""
+
+#: admin/slots_include.php:656
+msgid "Select a date to"
+msgstr ""
+
+#: admin/slots_include.php:659
+msgid "New time range values are not correct"
+msgstr ""
+
+#: admin/slots_include.php:675
+msgid "Search Time Slots"
+msgstr ""
+
+#: admin/slots_include.php:678
+msgid "Use the following filters to search created time slots"
+msgstr ""
+
+#: admin/slots_include.php:682 admin/reservation.php:309
+#: admin/users_reservation.php:274
+msgid "Filter by date:"
+msgstr ""
+
+#: admin/slots_include.php:685
+msgid "choose a date"
+msgstr ""
+
+#: admin/slots_include.php:686
+msgid "Single day"
+msgstr ""
+
+#: admin/slots_include.php:714 admin/new_slot_include.php:611
+msgid "Days"
+msgstr ""
+
+#: admin/slots_include.php:717 admin/slots_include.php:905
+#: admin/slots_include.php:1115 admin/new_slot_include.php:614
+msgid "All"
+msgstr ""
+
+#: admin/slots_include.php:718 admin/slots_include.php:906
+#: admin/slots_include.php:1116 admin/new_slot_include.php:615
+msgid "Mondays"
+msgstr ""
+
+#: admin/slots_include.php:719 admin/slots_include.php:907
+#: admin/slots_include.php:1117 admin/new_slot_include.php:616
+msgid "Tuesdays"
+msgstr ""
+
+#: admin/slots_include.php:720 admin/slots_include.php:908
+#: admin/slots_include.php:1118 admin/new_slot_include.php:617
+msgid "Wednesdays"
+msgstr ""
+
+#: admin/slots_include.php:721 admin/slots_include.php:909
+#: admin/slots_include.php:1119 admin/new_slot_include.php:618
+msgid "Thursdays"
+msgstr ""
+
+#: admin/slots_include.php:722 admin/slots_include.php:910
+#: admin/slots_include.php:1120 admin/new_slot_include.php:619
+msgid "Fridays"
+msgstr ""
+
+#: admin/slots_include.php:723 admin/slots_include.php:911
+#: admin/slots_include.php:1121 admin/new_slot_include.php:620
+msgid "Saturdays"
+msgstr ""
+
+#: admin/slots_include.php:724 admin/slots_include.php:912
+#: admin/slots_include.php:1122 admin/new_slot_include.php:621
+msgid "Sundays"
+msgstr ""
+
+#: admin/slots_include.php:733 admin/slots_include.php:1185
+#: admin/ajax/slots.php:91
+msgid "Time From"
+msgstr ""
+
+#: admin/slots_include.php:736 admin/slots_include.php:785
+#: admin/slots_include.php:938 admin/slots_include.php:986
+#: admin/new_slot_include.php:653 admin/new_slot_include.php:699
+#: admin/new_slot_include.php:787 admin/new_slot_include.php:835
+#: admin/ajax/slots.php:182 admin/ajax/slots.php:252
+msgid "hour"
+msgstr ""
+
+#: admin/slots_include.php:755 admin/slots_include.php:804
+#: admin/slots_include.php:957 admin/slots_include.php:1005
+#: admin/new_slot_include.php:672 admin/new_slot_include.php:718
+#: admin/new_slot_include.php:806 admin/new_slot_include.php:854
+#: admin/ajax/slots.php:206 admin/ajax/slots.php:275
+msgid "minute"
+msgstr ""
+
+#: admin/slots_include.php:781 admin/slots_include.php:1187
+#: admin/ajax/slots.php:93
+msgid "Time To"
+msgstr ""
+
+#: admin/slots_include.php:828 admin/slots_include.php:1137
+msgid "Leave empty if you don't want a range period of time"
+msgstr ""
+
+#: admin/slots_include.php:835 admin/reservation.php:363
+#: admin/users_reservation.php:306
+msgid "Search"
+msgstr ""
+
+#: admin/slots_include.php:858
+msgid "Modify Time Slots"
+msgstr ""
+
+#: admin/slots_include.php:862
+msgid "Action:"
+msgstr ""
+
+#: admin/slots_include.php:866
+msgid "modify"
+msgstr ""
+
+#: admin/slots_include.php:867
+msgid "delete"
+msgstr ""
+
+#: admin/slots_include.php:876 admin/slots_include.php:1089
+msgid "Slot:"
+msgstr ""
+
+#: admin/slots_include.php:902 admin/slots_include.php:1112
+msgid "Weekdays:"
+msgstr ""
+
+#: admin/slots_include.php:935
+msgid "New Time From"
+msgstr ""
+
+#: admin/slots_include.php:983
+msgid "New Time To"
+msgstr ""
+
+#: admin/slots_include.php:1039
+msgid "New Price"
+msgstr ""
+
+#: admin/slots_include.php:1053
+msgid "New slot seats"
+msgstr ""
+
+#: admin/slots_include.php:1056
+msgid "New maximum bookable slot seats"
+msgstr ""
+
+#: admin/slots_include.php:1189 admin/ajax/slots.php:95
+msgid "Special Text"
+msgstr ""
+
+#: admin/slots_include.php:1195 admin/ajax/slots.php:103
+msgid "Reserved"
+msgstr ""
+
+#: admin/form_management.php:62
+msgid "Choose the visible fields in the reservation form"
+msgstr ""
+
+#: admin/form_management.php:63 admin/form_management.php:87
+msgid "(multiple selection)"
+msgstr ""
+
+#: admin/form_management.php:86
+msgid "Choose the mandatory fields in the reservation form"
+msgstr ""
+
+#: admin/form_management.php:110
+msgid "Fields type"
+msgstr ""
+
+#: admin/form_management.php:111
+msgid "choose the type of every form field"
+msgstr ""
+
+#: admin/form_management.php:119 admin/form_management.php:132
+#: admin/form_management.php:145 admin/form_management.php:158
+#: admin/form_management.php:172 admin/form_management.php:185
+#: admin/form_management.php:198 admin/form_management.php:211
+#: admin/form_management.php:224
+msgid "Text"
+msgstr ""
+
+#: admin/form_management.php:120 admin/form_management.php:133
+#: admin/form_management.php:146 admin/form_management.php:159
+#: admin/form_management.php:173 admin/form_management.php:186
+#: admin/form_management.php:199 admin/form_management.php:212
+#: admin/form_management.php:225
+msgid "TextArea"
+msgstr ""
+
+#: admin/form_management.php:242 admin/configuration.php:736
+#: admin/new_slot_include.php:963 admin/new_calendar.php:102
+#: admin/new_mail.php:114 admin/styles.php:811
+msgid "CANCEL"
+msgstr ""
+
+#: admin/form_management.php:243 admin/configuration.php:737
+#: admin/new_slot_include.php:964 admin/new_calendar.php:103
+#: admin/new_mail.php:115 admin/styles.php:812
+msgid "SAVE"
+msgstr ""
+
+#: admin/configuration.php:180
+msgid "Timezone"
+msgstr ""
+
+#: admin/configuration.php:181
+#, fuzzy
+msgid "Your timezone to manage the time slots"
+msgstr "If you like set an interval  between the time slots"
+
+#: admin/configuration.php:184
+#, fuzzy
+msgid "Select your timezone"
+msgstr "Please select your timezone"
+
+#: admin/configuration.php:185
+msgid "Please select your timezone"
+msgstr "Please select your timezone"
+
+#: admin/configuration.php:206
+msgid "Choose calendar date format."
+msgstr ""
+
+#: admin/configuration.php:207
+msgid "Switch between US, UK and EU date formats"
+msgstr ""
+
+#: admin/configuration.php:211
+msgid "UK - dd/mm/yyyy - week starts on Monday"
+msgstr ""
+
+#: admin/configuration.php:212
+msgid "US - mm/dd/yyyy - week starts on Sunday"
+msgstr ""
+
+#: admin/configuration.php:213
+msgid "EU - yyyy/mm/dd - week starts on Monday"
+msgstr ""
+
+#: admin/configuration.php:226
+msgid "Choose calendar time format."
+msgstr ""
+
+#: admin/configuration.php:227
+msgid "Switch between 12-hour and 24-hour time formats"
+msgstr ""
+
+#: admin/configuration.php:231
+msgid "12-hour time format with am/pm"
+msgstr ""
+
+#: admin/configuration.php:232
+msgid "24-hour time format"
+msgstr ""
+
+#: admin/configuration.php:245
+msgid "Admin Email"
+msgstr ""
+
+#: admin/configuration.php:246
+msgid "E-mail address where you'll receive reservation alerts"
+msgstr ""
+
+#: admin/configuration.php:248
+#, fuzzy
+msgid "Specify your email address"
+msgstr "Specify an email address \"from\""
+
+#: admin/configuration.php:261
+msgid "Email \"from\""
+msgstr ""
+
+#: admin/configuration.php:262
+msgid ""
+"Name and e-mail address shown in the field \"From\" in every e-mail sent to "
+"confirm the reservation to your customer"
+msgstr ""
+"Name and e-mail address shown in the field \"From\" in every e-mail sent to "
+"confirm the reservation to your customer"
+
+#: admin/configuration.php:264
+msgid "Sender name"
+msgstr ""
+
+#: admin/configuration.php:266
+msgid "E-mail address"
+msgstr ""
+
+#: admin/configuration.php:266
+msgid "Specify an email address \"from\""
+msgstr "Specify an email address \"from\""
+
+#: admin/configuration.php:278
+#, fuzzy
+msgid "Reservation: confirmation mode"
+msgstr "All reservations must be confirmed in "
+
+#: admin/configuration.php:279
+msgid "Choose how to confirm reservations"
+msgstr ""
+
+#: admin/configuration.php:282
+#, fuzzy
+msgid "Select reservation confirm mode"
+msgstr "All reservations must be confirmed in "
+
+#: admin/configuration.php:283
+#, fuzzy
+msgid "Select reservation confirmation mode"
+msgstr "All reservations must be confirmed in "
+
+#: admin/configuration.php:284
+msgid ""
+"Automatically - When a user book a time slot, it is automatically confirmed"
+msgstr ""
+"Automatically - When a user book a time slot, it is automatically confirmed"
+
+#: admin/configuration.php:285
+msgid ""
+"By a verification e-mail - When a user book a time slot, he has to confirm "
+"the reservation by clicking on a link sent to him by e-mail"
+msgstr ""
+"By a verification e-mail - When a user book a time slot, he has to confirm "
+"the reservation by clicking on a link sent to him by e-mail"
+
+#: admin/configuration.php:286
+msgid ""
+"Admin confirm - You must confirm the reservation in the reservations area"
+msgstr ""
+"Admin confirm - You must confirm the reservation in the reservations area"
+
+#: admin/configuration.php:290
+msgid ""
+"Currently in the confirmation page, the user will be pointed to the "
+"calendar. If you want to modify the destination page click here:"
+msgstr ""
+"Currently in the confirmation page, the user will be pointed to the "
+"calendar. If you want to modify the destination page click here:"
+
+#: admin/configuration.php:291 admin/configuration.php:323
+msgid "Set the url (starting with: http://):"
+msgstr ""
+
+#: admin/configuration.php:304
+msgid "Redirect page after booking"
+msgstr ""
+
+#: admin/configuration.php:305
+msgid "(starting with: http://)"
+msgstr ""
+
+#: admin/configuration.php:315
+msgid "Reservation: cancellation"
+msgstr ""
+
+#: admin/configuration.php:316
+msgid ""
+"Choose if the customer will be able to cancel his reservation by a link in "
+"the confirmation email he receives (when you decide to activate this "
+"function you can check the email to change the text)"
+msgstr ""
+"Choose if the customer will be able to cancel his reservation by a link in "
+"the confirmation email he receives (when you decide to activate this "
+"function you can check the email to change the text)"
+
+#: admin/configuration.php:319 admin/configuration.php:345
+#: admin/configuration.php:477
+msgid "enabled"
+msgstr ""
+
+#: admin/configuration.php:321
+msgid ""
+"Currently in the cancellation page, the user will be pointed to the "
+"calendar. If you want to modify the destination page click here:"
+msgstr ""
+"Currently in the cancellation page, the user will be pointed to the "
+"calendar. If you want to modify the destination page click here:"
+
+#: admin/configuration.php:340
+msgid "Google recaptcha"
+msgstr ""
+
+#: admin/configuration.php:341
+msgid "Code verification to avoid spam"
+msgstr ""
+
+#: admin/configuration.php:350
+msgid "Public Key"
+msgstr ""
+
+#: admin/configuration.php:351 admin/configuration.php:356
+msgid ""
+"It must be associated with your site domain, go to Recaptcha site to get it:"
+msgstr ""
+"It must be associated with your site domain, go to Recaptcha site to get it:"
+
+#: admin/configuration.php:353
+msgid "Insert Google recaptcha public key"
+msgstr ""
+
+#: admin/configuration.php:355
+msgid "Private key"
+msgstr ""
+
+#: admin/configuration.php:358
+msgid "Insert Google recaptcha private key"
+msgstr ""
+
+#: admin/configuration.php:370
+msgid "Add terms and condition check"
+msgstr ""
+
+#: admin/configuration.php:371
+msgid ""
+"Adding this control, the user must check it to be able to book. It's "
+"mandatory to insert at least a label to enable this option"
+msgstr ""
+"Adding this control, the user must check it to be able to book. It's "
+"mandatory to insert at least a label to enable this option"
+
+#: admin/configuration.php:375 admin/configuration.php:436
+#: admin/configuration.php:458 admin/configuration.php:494
+#: admin/configuration.php:511 admin/configuration.php:527
+#: admin/configuration.php:579 admin/configuration.php:611
+#: admin/configuration.php:640 admin/configuration.php:652
+#: admin/configuration.php:690 admin/user_reservation_detail.php:192
+#: admin/user_reservation_detail.php:205 admin/reservation_detail.php:193
+#: admin/reservation_detail.php:206 admin/ajax/csvUsersExport.php:45
+#: admin/ajax/csvUsersExport.php:49 admin/ajax/csvExport.php:45
+#: admin/ajax/csvExport.php:49
+msgid "YES"
+msgstr ""
+
+#: admin/configuration.php:377 admin/configuration.php:436
+#: admin/configuration.php:460 admin/configuration.php:496
+#: admin/configuration.php:513 admin/configuration.php:529
+#: admin/configuration.php:581 admin/configuration.php:613
+#: admin/configuration.php:642 admin/configuration.php:654
+#: admin/configuration.php:692 admin/user_reservation_detail.php:194
+#: admin/user_reservation_detail.php:207 admin/reservation_detail.php:195
+#: admin/reservation_detail.php:208 admin/ajax/csvUsersExport.php:43
+#: admin/ajax/csvUsersExport.php:47 admin/ajax/csvExport.php:43
+#: admin/ajax/csvExport.php:47
+msgid "NO"
+msgstr ""
+
+#: admin/configuration.php:380
+msgid "Label to show:"
+msgstr ""
+
+#: admin/configuration.php:383
+msgid "Link to terms and conditions (starting with 'http://'):"
+msgstr ""
+
+#: admin/configuration.php:399
+msgid "Slot selection"
+msgstr ""
+
+#: admin/configuration.php:400
+msgid "(choose if customer can reserve only one or multiple slots at once)"
+msgstr ""
+
+#: admin/configuration.php:404
+msgid "Multiple selection"
+msgstr ""
+
+#: admin/configuration.php:405
+msgid "Only one"
+msgstr ""
+
+#: admin/configuration.php:423
+msgid "Unlimited reservations"
+msgstr ""
+
+#: admin/configuration.php:424
+msgid "Choose if slots can have unlimited reservations or just one."
+msgstr ""
+
+#: admin/configuration.php:429
+msgid "one reservation per slot"
+msgstr ""
+
+#: admin/configuration.php:430
+msgid "use the number set in slot insertion"
+msgstr ""
+
+#: admin/configuration.php:431
+msgid "unlimited reservations per slot"
+msgstr ""
+
+#: admin/configuration.php:435
+msgid "Show available slots seats instead of available slots number"
+msgstr ""
+
+#: admin/configuration.php:454
+msgid "Show booked slots"
+msgstr ""
+
+#: admin/configuration.php:455
+msgid ""
+"Choose whether to show or not the booked slots. This works only if "
+"reservations per slot are not unlimited"
+msgstr ""
+"Choose whether to show or not the booked slots. This works only if "
+"reservations per slot are not unlimited"
+
+#: admin/configuration.php:473
+msgid "Available time slots preview"
+msgstr ""
+
+#: admin/configuration.php:474
+msgid "Show the preview of available time slots on calendar days rollover"
+msgstr ""
+
+#: admin/configuration.php:479
+msgid "disabled"
+msgstr ""
+
+#: admin/configuration.php:490
+msgid "Show category selection"
+msgstr ""
+
+#: admin/configuration.php:491
+msgid ""
+"Choose whether to show or not the category selection drop down at the top "
+"right of the calendar when general shortcode <strong>[wp_booking_calendar]</"
+"strong> is used"
+msgstr ""
+"Choose whether to show or not the category selection drop down at the top "
+"right of the calendar when general shortcode <strong>[wp_booking_calendar]</"
+"strong> is used"
+
+#: admin/configuration.php:507
+msgid "Show calendar selection"
+msgstr ""
+
+#: admin/configuration.php:508
+msgid ""
+"Choose whether to show or not the calendar selection drop down at the top "
+"right of the calendar when general or category shortcode id used"
+msgstr ""
+"Choose whether to show or not the calendar selection drop down at the top "
+"right of the calendar when general or category shortcode id used"
+
+#: admin/configuration.php:523
+msgid "Show the first not empty month by default"
+msgstr ""
+
+#: admin/configuration.php:524
+msgid ""
+"Choose whether to start the calendar from the first month which have slots. "
+"If Set to \"NO\" the first visible month will be the current month."
+msgstr ""
+"Choose whether to start the calendar from the first month which have slots. "
+"If Set to \"NO\" the first visible month will be the current month."
+
+#: admin/configuration.php:538
+msgid "Calendar months view"
+msgstr ""
+
+#: admin/configuration.php:539
+msgid ""
+"Choose if you want to limit the number of past and future months shown in "
+"the calendar. Leave -1 if you don't want to set this limit"
+msgstr ""
+"Choose if you want to limit the number of past and future months shown in "
+"the calendar. Leave -1 if you don't want to set this limit"
+
+#: admin/configuration.php:541
+msgid "Past months:"
+msgstr ""
+
+#: admin/configuration.php:545
+msgid "Future months:"
+msgstr ""
+
+#: admin/configuration.php:559
+msgid "Choose when users are able to book a slot"
+msgstr ""
+
+#: admin/configuration.php:560
+msgid ""
+"Insert the minimum number of days that a user has to book before the slot "
+"date in order to get admitted. Leave 0 if he can book even at the last "
+"minute."
+msgstr ""
+"Insert the minimum number of days that a user has to book before the slot "
+"date in order to get admitted. Leave 0 if he can book even at the last "
+"minute."
+
+#: admin/configuration.php:564
+msgid ""
+"Insert the maximum number of days that a user can book when landing on the "
+"calendar. Leave 0 if he can book at any date."
+msgstr ""
+"Insert the maximum number of days that a user can book when landing on the "
+"calendar. Leave 0 if he can book at any date."
+
+#: admin/configuration.php:576
+msgid "Display prices in booking page"
+msgstr ""
+
+#: admin/configuration.php:583
+msgid "Select your currency"
+msgstr ""
+
+#: admin/configuration.php:606
+msgid "Enable Paypal payment"
+msgstr ""
+
+#: admin/configuration.php:607
+msgid ""
+"Activate this option if you want people to pay the booking fee with Paypal. "
+"You must complete all the fields below to activate this service."
+msgstr ""
+"Activate this option if you want people to pay the booking fee with Paypal. "
+"You must complete all the fields below to activate this service."
+
+#: admin/configuration.php:607
+msgid "Note that if you activate IPN"
+msgstr ""
+
+#: admin/configuration.php:607
+msgid ""
+"in your Paypal profile the system will automatically confirm reservations "
+"after payments even if the user closes the browser before being redirected "
+"to the Booking Calendar. In the Notification URL text box just put your WP "
+"site address."
+msgstr ""
+"in your Paypal profile the system will automatically confirm reservations "
+"after payments even if the user closes the browser before being redirected "
+"to the Booking Calendar. In the Notification URL text box just put your WP "
+"site address."
+
+#: admin/configuration.php:617
+msgid "Insert your paypal email address"
+msgstr ""
+
+#: admin/configuration.php:621
+msgid "Select your country"
+msgstr ""
+
+#: admin/configuration.php:637
+msgid ""
+"Do you want the reservations to be automatically confirmed after Paypal "
+"payment?"
+msgstr ""
+"Do you want the reservations to be automatically confirmed after Paypal "
+"payment?"
+
+#: admin/configuration.php:647
+msgid ""
+"Do you want the reservations to be stored in the system only after Paypal "
+"Payment?"
+msgstr ""
+"Do you want the reservations to be stored in the system only after Paypal "
+"Payment?"
+
+#: admin/configuration.php:648
+msgid ""
+"Activating this option, the reservations will be stored into the system ONLY "
+"after payment. If Paypal doesn't return the payment result, whether the "
+"connection is lost, or due to a malfunction, a breakdown, the reservation "
+"will be lost and the slot will still be available."
+msgstr ""
+"Activating this option, the reservations will be stored into the system ONLY "
+"after payment. If Paypal doesn't return the payment result, whether the "
+"connection is lost, or due to a malfunction, a breakdown, the reservation "
+"will be lost and the slot will still be available."
+
+#: admin/configuration.php:673
+msgid "Additional text for booking page"
+msgstr ""
+
+#: admin/configuration.php:674
+msgid "It will be displayed under the date"
+msgstr ""
+
+#: admin/configuration.php:686
+msgid ""
+"Allow booking to WP registered users only and allow WP registration through "
+"this plugin."
+msgstr ""
+"Allow booking to WP registered users only and allow WP registration through "
+"this plugin."
+
+#: admin/configuration.php:687
+msgid ""
+"Activating this option people will be able to register to your WP site and "
+"only WP registered users will be able to book from your Booking Calendar. "
+"You can choose the role for these users when registrating through this "
+"plugin."
+msgstr ""
+"Activating this option people will be able to register to your WP site and "
+"only WP registered users will be able to book from your Booking Calendar. "
+"You can choose the role for these users when registrating through this "
+"plugin."
+
+#: admin/configuration.php:697
+msgid "Select the role for users who register to your site through the plugin"
+msgstr ""
+
+#: admin/configuration.php:715
+msgid "Choose the text to show in the registration and login form"
+msgstr ""
+
+#: admin/user_reservation_detail.php:33 admin/reservation_detail.php:33
+msgid "Close"
+msgstr ""
+
+#: admin/user_reservation_detail.php:34 admin/reservation_detail.php:34
+msgid "Print"
+msgstr ""
+
+#: admin/user_reservation_detail.php:188 admin/reservation.php:423
+#: admin/users_reservation.php:365 admin/reservation_detail.php:189
+#: admin/ajax/csvUsersExport.php:36 admin/ajax/reservation.php:29
+#: admin/ajax/users_reservation.php:29 admin/ajax/csvExport.php:36
+msgid "Confirmed"
+msgstr ""
+
+#: admin/user_reservation_detail.php:201 admin/reservation.php:523
+#: admin/users_reservation.php:456 admin/reservation_detail.php:202
+#: admin/ajax/csvUsersExport.php:36 admin/ajax/reservation.php:128
+#: admin/ajax/users_reservation.php:119 admin/ajax/csvExport.php:36
+msgid "Cancelled"
+msgstr ""
+
+#: admin/categories.php:53
+msgid ""
+"Are you sure you want to delete this category? All calendars, slots, "
+"holidays and reservations related to it will be deleted too"
+msgstr ""
+"Are you sure you want to delete this category? All calendars, slots, "
+"holidays and reservations related to it will be deleted too"
+
+#: admin/categories.php:65
+msgid "Are you sure you want to publish this category?"
+msgstr ""
+
+#: admin/categories.php:76
+msgid "Are you sure you want to unpublish this category?"
+msgstr ""
+
+#: admin/categories.php:98
+msgid "Insert a name for the category"
+msgstr ""
+
+#: admin/categories.php:117 admin/ajax/categories.php:93
+msgid "Modify name"
+msgstr ""
+
+#: admin/categories.php:163
+msgid "Create new category"
+msgstr ""
+
+#: admin/categories.php:163
+msgid "Type the name"
+msgstr ""
+
+#: admin/categories.php:165 admin/wp_booking_calendars.php:144
+msgid "Add"
+msgstr ""
+
+#: admin/categories.php:177 admin/wp_booking_calendars.php:169
+msgid "Selected items"
+msgstr ""
+
+#: admin/categories.php:178
+msgid "Are you sure you want to publish the selected items?"
+msgstr ""
+
+#: admin/categories.php:178 admin/wp_booking_calendars.php:170
+msgid "Publish"
+msgstr ""
+
+#: admin/categories.php:179
+msgid "Are you sure you want to unpublish the selected items?"
+msgstr ""
+
+#: admin/categories.php:179 admin/wp_booking_calendars.php:171
+msgid "Unpublish"
+msgstr ""
+
+#: admin/categories.php:180
+msgid ""
+"Are you sure you want to delete the selected items? All calendars, slots, "
+"holidays and reservations related to them will be deleted too"
+msgstr ""
+"Are you sure you want to delete the selected items? All calendars, slots, "
+"holidays and reservations related to them will be deleted too"
+
+#: admin/new_slot_include.php:539
+msgid "Choose slot interval"
+msgstr ""
+
+#: admin/new_slot_include.php:542
+msgid "Insert a valid value for slot interval"
+msgstr ""
+
+#: admin/new_slot_include.php:545
+msgid "Insert at least a custom slot"
+msgstr ""
+
+#: admin/new_slot_include.php:548
+msgid "Slot duration values are not correct"
+msgstr ""
+
+#: admin/new_slot_include.php:551
+msgid "Insert a valid value for slot pause"
+msgstr ""
+
+#: admin/new_slot_include.php:554
+msgid "Select at least time from and a time to"
+msgstr ""
+
+#: admin/new_slot_include.php:557
+msgid "Time periods for slots are not correct"
+msgstr ""
+
+#: admin/new_slot_include.php:572
+#, fuzzy
+msgid "Insert your preferences to create the time slots"
+msgstr "If you like set an interval  between the time slots"
+
+#: admin/new_slot_include.php:573
+msgid ""
+"Remember to limit the time period to a maximum of 3 months at once if you "
+"have many slots in a day as there is a limit which prevent to insert more "
+"than 2000 slots at once to avoid your WP site to crash or block during slots "
+"creation"
+msgstr ""
+"Remember to limit the time period to a maximum of 3 months at once if you "
+"have many slots in a day as there is a limit which prevent to insert more "
+"than 2000 slots at once to avoid your WP site to crash or block during slots "
+"creation"
+
+#: admin/new_slot_include.php:596
+msgid "Leave this field empty if you want to set a single day"
+msgstr ""
+
+#: admin/new_slot_include.php:636
+msgid "Slot duration"
+msgstr ""
+
+#: admin/new_slot_include.php:637
+msgid "Select the length each time slot will have"
+msgstr ""
+
+#: admin/new_slot_include.php:642
+msgid "choose duration"
+msgstr ""
+
+#: admin/new_slot_include.php:643
+msgid "in minutes"
+msgstr ""
+
+#: admin/new_slot_include.php:644
+msgid "from, to"
+msgstr ""
+
+#: admin/new_slot_include.php:649 admin/new_slot_include.php:779
+msgid ""
+"Even if you want to set a fixed hour (i.e. 6:00), please remember to select "
+"minutes too (00) or you'll get the error \"Duplicated slots\""
+msgstr ""
+"Even if you want to set a fixed hour (i.e. 6:00), please remember to select "
+"minutes too (00) or you'll get the error \"Duplicated slots\""
+
+#: admin/new_slot_include.php:749
+msgid "Type here the minutes"
+msgstr ""
+
+#: admin/new_slot_include.php:763
+msgid "Pause between time slots"
+msgstr ""
+
+#: admin/new_slot_include.php:764
+msgid "If you like set an interval  between the time slots"
+msgstr "If you like set an interval  between the time slots"
+
+#: admin/new_slot_include.php:779
+msgid "Set the period of time in which time slots will be available"
+msgstr ""
+
+#: admin/new_slot_include.php:896
+msgid "Description text (optional)"
+msgstr ""
+
+#: admin/new_slot_include.php:901
+msgid "Show both times and special text"
+msgstr ""
+
+#: admin/new_slot_include.php:902
+msgid "Show just special text"
+msgstr ""
+
+#: admin/new_slot_include.php:915
+msgid "Insert price for the slots your are creating"
+msgstr ""
+
+#: admin/new_slot_include.php:939
+msgid "Slot seats number"
+msgstr ""
+
+#: admin/new_slot_include.php:940
+msgid "choose availability for every slot"
+msgstr ""
+
+#: admin/new_slot_include.php:946
+msgid "Maximum number of bookable seats at once"
+msgstr ""
+
+#: admin/new_slot_include.php:947
+msgid "Choose the maximum number of bookable seats at once by a customer"
+msgstr ""
+
+#: admin/new_calendar.php:31
+msgid "Select a category for the calendar"
+msgstr ""
+
+#: admin/new_calendar.php:34
+msgid "Insert a name for the calendar"
+msgstr ""
+
+#: admin/new_calendar.php:54
+msgid "Select calendar category"
+msgstr ""
+
+#: admin/new_calendar.php:58 admin/wp_booking_calendars.php:157
+msgid "choose a category"
+msgstr ""
+
+#: admin/new_calendar.php:75
+msgid "Calendar name"
+msgstr ""
+
+#: admin/new_calendar.php:86
+#, fuzzy
+msgid "Calendar admin email address"
+msgstr "Specify an email address \"from\""
+
+#: admin/new_mail.php:33 admin/new_mail.php:55
+msgid "Insert mail subject"
+msgstr ""
+
+#: admin/new_mail.php:36
+msgid "Insert mail text"
+msgstr ""
+
+#: admin/new_mail.php:53
+msgid "Email subject"
+msgstr ""
+
+#: admin/new_mail.php:61
+msgid "Email text"
+msgstr ""
+
+#: admin/new_mail.php:63 admin/new_mail.php:88
+msgid ""
+"The commands in square brackets are necessary for dynamically inserting the "
+"data. If you modify or delete them, data will not be inserted."
+msgstr ""
+"The commands in square brackets are necessary for dynamically inserting the "
+"data. If you modify or delete them, data will not be inserted."
+
+#: admin/new_mail.php:64
+msgid "it inserts the user name"
+msgstr ""
+
+#: admin/new_mail.php:65
+msgid "it inserts reservation details"
+msgstr ""
+
+#: admin/new_mail.php:69
+msgid "it inserts the confirmation link"
+msgstr ""
+
+#: admin/new_mail.php:70 admin/new_mail.php:90
+msgid "it inserts the extended link to be copied and pasted into the URL"
+msgstr ""
+
+#: admin/new_mail.php:86
+msgid "Email cancellation text."
+msgstr ""
+
+#: admin/new_mail.php:86
+msgid "Status:"
+msgstr ""
+
+#: admin/new_mail.php:86
+msgid "ENABLED"
+msgstr ""
+
+#: admin/new_mail.php:86
+msgid "DISABLED"
+msgstr ""
+
+#: admin/new_mail.php:89
+msgid "it inserts the cancellation link"
+msgstr ""
+
+#: admin/new_mail.php:103
+msgid "Email signature"
+msgstr ""
+
+#: admin/mails.php:26
+msgid "Description"
+msgstr ""
+
+#: admin/reservation.php:31
+msgid "Reservations List"
+msgstr ""
+
+#: admin/reservation.php:136
+#, fuzzy
+msgid "Are you sure you want to delete this reservation?"
+msgstr ""
+"Are you sure you want to delete this item? All holidays, slots and "
+"reservations will be deleted"
+
+#: admin/reservation.php:157
+msgid ""
+"Are you sure you want to confirm this reservation? It could not have been "
+"paid yet, check your Paypal account before confirmation"
+msgstr ""
+"Are you sure you want to confirm this reservation? It could not have been "
+"paid yet, check your Paypal account before confirmation"
+
+#: admin/reservation.php:167 admin/reservation.php:183
+#: admin/users_reservation.php:184 admin/users_reservation.php:200
+#, fuzzy
+msgid "Are you sure you want to confirm this reservation?"
+msgstr ""
+"Thank you for booking online. Check your email box to confirm the "
+"reservation."
+
+#: admin/reservation.php:197
+#, fuzzy
+msgid "Are you sure you want to unconfirm this reservation?"
+msgstr ""
+"Thank you for booking online. Check your email box to confirm the "
+"reservation."
+
+#: admin/reservation.php:270
+msgid "You must add at least an email address to send the email"
+msgstr ""
+
+#: admin/reservation.php:273 admin/user_contact.php:11
+msgid "Insert a subject for the message"
+msgstr ""
+
+#: admin/reservation.php:276
+msgid "Insert a message for the user"
+msgstr ""
+
+#: admin/reservation.php:287
+msgid "Message to"
+msgstr ""
+
+#: admin/reservation.php:287
+msgid "Reservation info:"
+msgstr ""
+
+#: admin/reservation.php:289
+msgid "To (multiple addresses must be separated by comma)"
+msgstr ""
+
+#: admin/reservation.php:291
+msgid "Cc (multiple addresses must be separated by comma)"
+msgstr ""
+
+#: admin/reservation.php:293
+msgid "Bcc (multiple addresses must be separated by comma)"
+msgstr ""
+
+#: admin/reservation.php:295 admin/user_contact.php:28
+msgid "Subject"
+msgstr ""
+
+#: admin/reservation.php:299 admin/user_contact.php:34
+msgid "Send"
+msgstr ""
+
+#: admin/reservation.php:302 admin/users_reservation.php:267
+msgid "Search Reservations"
+msgstr ""
+
+#: admin/reservation.php:305 admin/users_reservation.php:270
+msgid "Use the following filters to search reservations"
+msgstr ""
+
+#: admin/reservation.php:313 admin/users_reservation.php:278
+msgid "One day"
+msgstr ""
+
+#: admin/reservation.php:341
+msgid "Wordpress user"
+msgstr ""
+
+#: admin/reservation.php:344
+msgid "all"
+msgstr ""
+
+#: admin/reservation.php:345
+msgid "not registered"
+msgstr ""
+
+#: admin/reservation.php:377
+msgid ""
+"In red lines you'll find those reservations whose slots have been deleted"
+msgstr ""
+"In red lines you'll find those reservations whose slots have been deleted"
+
+#: admin/reservation.php:380 admin/users_reservation.php:322
+msgid "CSV Export"
+msgstr ""
+
+#: admin/reservation.php:381 admin/users_reservation.php:323
+msgid "Show today's reservations"
+msgstr ""
+
+#: admin/reservation.php:417 admin/users_reservation.php:359
+#: admin/ajax/reservation.php:23 admin/ajax/users_reservation.php:23
+msgid "Surname, name"
+msgstr ""
+
+#: admin/reservation.php:533 admin/users_reservation.php:472
+#: admin/ajax/reservation.php:138 admin/ajax/users_reservation.php:136
+msgid "Detail"
+msgstr ""
+
+#: admin/reservations.php:85
+msgid "List"
+msgstr ""
+
+#: admin/styles.php:405
+msgid "Month box style"
+msgstr ""
+
+#: admin/styles.php:407
+msgid "Month box background:"
+msgstr ""
+
+#: admin/styles.php:415
+msgid "Month name label color:"
+msgstr ""
+
+#: admin/styles.php:422
+msgid "Year label color:"
+msgstr ""
+
+#: admin/styles.php:437
+msgid "Month navigation buttons style"
+msgstr ""
+
+#: admin/styles.php:439
+msgid "Buttons background:"
+msgstr ""
+
+#: admin/styles.php:446
+msgid "Buttons background on mouse over:"
+msgstr ""
+
+#: admin/styles.php:453
+msgid "Buttons color:"
+msgstr ""
+
+#: admin/styles.php:460
+msgid "Buttons color on mouse over:"
+msgstr ""
+
+#: admin/styles.php:477
+msgid "Weekdays style"
+msgstr ""
+
+#: admin/styles.php:479
+msgid "Weekdays label color:"
+msgstr ""
+
+#: admin/styles.php:486
+msgid "Weekdays background color:"
+msgstr ""
+
+#: admin/styles.php:501
+#, fuzzy
+msgid "Calendar cells (All)"
+msgstr "Calendar available cells, NOT today"
+
+#: admin/styles.php:503
+msgid "Border style:"
+msgstr ""
+
+#: admin/styles.php:506
+msgid "dashed"
+msgstr ""
+
+#: admin/styles.php:507
+msgid "dotted"
+msgstr ""
+
+#: admin/styles.php:508
+msgid "solid"
+msgstr ""
+
+#: admin/styles.php:520
+msgid "Calendar empty cells"
+msgstr ""
+
+#: admin/styles.php:522
+msgid "Empty cell background (no day):"
+msgstr ""
+
+#: admin/styles.php:537
+#, fuzzy
+msgid "Calendar available cells"
+msgstr "Calendar available cells, NOT today"
+
+#: admin/styles.php:540
+msgid "Available day background:"
+msgstr ""
+
+#: admin/styles.php:547
+msgid "Available day background on mouse over:"
+msgstr ""
+
+#: admin/styles.php:554
+#, fuzzy
+msgid "Available day first line label color:"
+msgstr "Sold out day first line label color (not today):"
+
+#: admin/styles.php:561
+#, fuzzy
+msgid "Available day first line label color on mouse over:"
+msgstr "Sold out day first line label color (not today):"
+
+#: admin/styles.php:568
+#, fuzzy
+msgid "Available day second line label color:"
+msgstr "Sold out day second line label color (not today):"
+
+#: admin/styles.php:575
+#, fuzzy
+msgid "Available day second line label color on mouse over:"
+msgstr "Sold out day second line label color (not today):"
+
+#: admin/styles.php:582
+msgid "Available day second line background color:"
+msgstr ""
+
+#: admin/styles.php:589
+msgid "Available day second line background color on mouse over:"
+msgstr ""
+
+#: admin/styles.php:604
+#, fuzzy
+msgid "Calendar sold out cells"
+msgstr "Calendar available cells, NOT today"
+
+#: admin/styles.php:607
+msgid "Sold out background color first line:"
+msgstr ""
+
+#: admin/styles.php:614
+msgid "Sold out background color second line:"
+msgstr ""
+
+#: admin/styles.php:621
+#, fuzzy
+msgid "Sold out day first line label color (not today):"
+msgstr "Sold out day first line label color (not today):"
+
+#: admin/styles.php:628
+#, fuzzy
+msgid "Sold out day second line label color (not today):"
+msgstr "Sold out day second line label color (not today):"
+
+#: admin/styles.php:644
+#, fuzzy
+msgid "Calendar not available cells"
+msgstr "Calendar not available cells, NOT today"
+
+#: admin/styles.php:647
+msgid "Not available day background:"
+msgstr ""
+
+#: admin/styles.php:654
+#, fuzzy
+msgid "Not available day first line label color:"
+msgstr "Sold out day first line label color (not today):"
+
+#: admin/styles.php:661
+#, fuzzy
+msgid "Not available day second line label color:"
+msgstr "Sold out day second line label color (not today):"
+
+#: admin/styles.php:668
+msgid "Not available day second line background color:"
+msgstr ""
+
+#: admin/styles.php:683
+msgid "Booking form style"
+msgstr ""
+
+#: admin/styles.php:685
+msgid "Calendar name color:"
+msgstr ""
+
+#: admin/styles.php:692
+msgid "Booking form background:"
+msgstr ""
+
+#: admin/styles.php:699
+msgid "Booking form labels color:"
+msgstr ""
+
+#: admin/styles.php:706
+msgid "Fields background:"
+msgstr ""
+
+#: admin/styles.php:713
+msgid "Fields text color:"
+msgstr ""
+
+#: admin/styles.php:721
+msgid "Recaptcha style:"
+msgstr ""
+
+#: admin/styles.php:724
+msgid "white"
+msgstr ""
+
+#: admin/styles.php:725
+msgid "red"
+msgstr ""
+
+#: admin/styles.php:726
+msgid "black"
+msgstr ""
+
+#: admin/styles.php:732
+msgid "\"Book now\" button background:"
+msgstr ""
+
+#: admin/styles.php:739
+msgid "\"Book now\" background on mouse over:"
+msgstr ""
+
+#: admin/styles.php:746
+msgid "\"Book now\" button text color:"
+msgstr ""
+
+#: admin/styles.php:753
+msgid "\"Book now\" button text color on mouse over:"
+msgstr ""
+
+#: admin/styles.php:760
+msgid "\"Clear\" button background:"
+msgstr ""
+
+#: admin/styles.php:767
+msgid "\"Clear\" button background on mouse over:"
+msgstr ""
+
+#: admin/styles.php:774
+msgid "\"Clear\" button text color:"
+msgstr ""
+
+#: admin/styles.php:781
+msgid "\"Clear\" button text color on mouse over:"
+msgstr ""
+
+#: admin/styles.php:790
+msgid "Custom Google font link"
+msgstr ""
+
+#: admin/styles.php:791
+msgid ""
+"Paste ONLY the url you find in the &lt;link&gt; tag. Example: https://fonts."
+"googleapis.com/css?family=Robot"
+msgstr ""
+
+#: admin/styles.php:797
+msgid "Custom Google font CSS code"
+msgstr ""
+
+#: admin/styles.php:798
+msgid ""
+"Paste here the CSS rule necessary to apply the font. Example: font-family: "
+"'Roboto', sans-serif;"
+msgstr ""
+
+#: admin/welcome.php:11
+msgid "WELCOME TO BOOKING CALENDAR CONTROL PANEL"
+msgstr ""
+
+#: admin/welcome.php:11
+msgid "Use the menu on the left to manage all configurations and contents"
+msgstr ""
+
+#: admin/wp_booking_calendars.php:62
+msgid ""
+"Are you sure you want to delete this item? All holidays, slots and "
+"reservations will be deleted"
+msgstr ""
+"Are you sure you want to delete this item? All holidays, slots and "
+"reservations will be deleted"
+
+#: admin/wp_booking_calendars.php:74
+msgid "Are you sure you want to publish this calendar?"
+msgstr ""
+
+#: admin/wp_booking_calendars.php:85
+msgid "Are you sure you want to unpublish this calendar?"
+msgstr ""
+
+#: admin/wp_booking_calendars.php:170
+msgid "Are you sure to publish the selected items?"
+msgstr ""
+
+#: admin/wp_booking_calendars.php:171
+msgid "Are you sure to unpublish the selected items?"
+msgstr ""
+
+#: admin/wp_booking_calendars.php:172
+msgid ""
+"Are you sure to delete the selected items? Slots and reservations of these "
+"calendars will be deleted too"
+msgstr ""
+"Are you sure to delete the selected items? Slots and reservations of these "
+"calendars will be deleted too"
+
+#: admin/wp_booking_calendars.php:173
+msgid "Are you sure to duplicate the selected items?"
+msgstr ""
+
+#: admin/wp_booking_calendars.php:173
+msgid "Duplicate"
+msgstr ""
+
+#: admin/users_reservation.php:133
+msgid ""
+"You cannot cancel this reservation as the payment was successfull. Contact "
+"the administrator for its cancellation."
+msgstr ""
+"You cannot cancel this reservation as the payment was successfull. Contact "
+"the administrator for its cancellation."
+
+#: admin/users_reservation.php:135 admin/users_reservation.php:152
+#, fuzzy
+msgid "Are you sure you want to cancel this reservation?"
+msgstr ""
+"Are you sure you want to delete this item? All holidays, slots and "
+"reservations will be deleted"
+
+#: admin/users_reservation.php:182
+msgid ""
+"You can't confirm this reservation, only administrator is able to do it as "
+"he has to check your payment first"
+msgstr ""
+"You can't confirm this reservation, only administrator is able to do it as "
+"he has to check your payment first"
+
+#: admin/users_reservation.php:464 admin/ajax/users_reservation.php:128
+msgid "Cancel"
+msgstr ""
+
+#: admin/user_contact.php:14
+msgid "Write a message for the administrator"
+msgstr ""
+
+#: admin/user_contact.php:26
+msgid ""
+"Please use this form to contact the administrator for any need about your "
+"reservations"
+msgstr ""
+"Please use this form to contact the administrator for any need about your "
+"reservations"
+
+#: admin/ajax/sendUserEmail.php:18 admin/ajax/sendAdminEmail.php:20
+msgid "Message successfully sent!"
+msgstr ""
+
+#: admin/ajax/sendUserEmail.php:24 admin/ajax/sendAdminEmail.php:27
+#, fuzzy
+msgid "An error has occurred. Retry"
+msgstr "An unknown error occurred"
+
+#: admin/ajax/slots.php:55 admin/ajax/slots.php:382
+msgid "Pages"
+msgstr ""
+
+#: admin/ajax/slots.php:58 admin/ajax/slots.php:385
+msgid "First"
+msgstr ""
+
+#: admin/ajax/slots.php:60 admin/ajax/slots.php:387
+msgid "Prev"
+msgstr ""
+
+#: admin/ajax/slots.php:75 admin/ajax/slots.php:402
+msgid "Next"
+msgstr ""
+
+#: admin/ajax/slots.php:76 admin/ajax/slots.php:403
+msgid "Last"
+msgstr ""
+
+#: admin/ajax/slots.php:101
+msgid "Max bookable"
+msgstr ""
+
+#: admin/ajax/categories.php:14 admin/ajax/wp_booking_calendars.php:16
+msgid "Shortcode"
+msgstr ""
+
+#: admin/ajax/categories.php:83 admin/ajax/wp_booking_calendars.php:99
+msgid "Set as default"
+msgstr ""
+
+#: admin/ajax/checkEditSlots.php:9 admin/ajax/checkSlots.php:7
+msgid ""
+"There are reservation for one or more of the selected slots. Modify them "
+"anyway?"
+msgstr ""
+"There are reservation for one or more of the selected slots. Modify them "
+"anyway?"
+
+#: admin/ajax/wp_booking_calendars.php:12
+msgid "Title"
+msgstr ""
+
+#: admin/ajax/wp_booking_calendars.php:14
+msgid "Category"
+msgstr ""

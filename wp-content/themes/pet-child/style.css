@@ -1,0 +1,19 @@
+@charset 'utf-8';
+/*
+ Theme Name:   Pet Child
+ Theme URI:    http://pet.ancorathemes.com/
+ Description:  Pet - Fully Responsive and Mobile Friendly theme
+ Author:       AncoraThemes
+ Author URI:   http://ancorathemes.com
+ Template:     pet
+ Version:      1.0
+ Tags:         inheritable theme-options
+ Text Domain:  pet
+*/
+
+
+@import url("../pet/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
